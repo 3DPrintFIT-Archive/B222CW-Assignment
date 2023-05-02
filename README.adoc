@@ -179,8 +179,8 @@ Hodnocení dle následující tabulky:
 | Modul `random_crystal` funguje podle zadání | 4 | povinný v rámci části
 | Zdrojový kód je vhodně členěn a komentován | 3 |
 | **Příprava na tisk:** | **10** |
-| Vhodně připravená tisková STLka | 5 | povinný v rámci části
-| Mesh ve všech tiskových STL je v pořádku | 5 | za chyby neovlivňující tisk se strhává jen 2.5 bodu
+| Vhodně připravená tisková STLka (pokud řežete pomocí sliceru, nezapoomeňte z něj vyexportovat i nařezaná STLka) | 5 | povinný v rámci části
+| Mesh ve všech tiskových STL je v pořádku (pokud řežete pomocí sliceru, zkontrolujte i nařezaná STLka) | 5 | za chyby neovlivňující tisk se strhává jen 2.5 bodu
 | **Slicing:** | **10** |
 | Podpory | 5 | nejsou potřeba (5 b.), vhodné užití* (2.5 b.), zbytečné užití (0 b.)
 | Vhodné nastavení parametrů tisku | 5 | perimetry, výplň, výška vrstvy...
